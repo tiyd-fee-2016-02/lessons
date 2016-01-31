@@ -68,7 +68,7 @@ Following is the basic structure, tagwise, for a basic html document
 <html>
   <head>
     <title>This is a title</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="styles/styles.css">
     <!-- The <head> tag usually contains any external CSS stylesheets or meta information about a particular page -->
   </head>
   <body>
@@ -146,7 +146,7 @@ font-family: "Trebuchet MS", Verdana, serif;
 
 ---
 
-```
+```css
 /* This is a CSS comment */
 body {
   background-color: red;
@@ -171,6 +171,7 @@ body {
 * IDs should be avoided in favor of...
 
 ---
+
 ## Class selectors
 
 * Class selectors target elements based on their class attribute.
