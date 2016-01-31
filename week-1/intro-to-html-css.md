@@ -51,7 +51,7 @@ Following is the basic structure, tagwise, for a basic html document
 <html>
   <head>
     <title>This is a title</title>
-    <link rel="stylesheet" type="text/css" href="styles/styles.css">
+    <link rel="stylesheet" type="text/css" href="styles.css">
     <!-- The <head> tag usually contains any external CSS stylesheets or meta information about a particular page -->
   </head>
   <body>
