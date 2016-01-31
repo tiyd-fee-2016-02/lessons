@@ -107,24 +107,24 @@ Cascading Style Sheets, most of the time abbreviated as CSS, is a stylesheet lan
 
 * What is a selector and how does it look on the page?
 
-	* Basic CSS consists of three parts:
+* Basic CSS consists of three parts:
 
-			```css
-			selector {
-				property: value;
-			}
-			```
-
+```css
+selector {
+property: value;
+}
+```
 
 * The selector is the element that you want to style. The property is the actual property title, and the value is the style you apply to that property.
 
+---
 
-			```css
-			body {
-  			background: DodgerBlue;
-  			font-family: "Trebuchet MS", Verdana, serif;
-			}
-			```
+```css
+body {
+background: DodgerBlue;
+font-family: "Trebuchet MS", Verdana, serif;
+}
+```
 
 ---
 
