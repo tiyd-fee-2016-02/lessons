@@ -63,9 +63,9 @@ Let's check out an [example](http://kellymurray.github.io/tiy-html-css-crash-cou
 
 ---
 
-For example, following is the basic structure, tagwise, for a basic html document
+Following is the basic structure, tagwise, for a basic html document
 
-```
+```html
 <!-- This is a comment -->
 <!DOCTYPE html>
 <html>
