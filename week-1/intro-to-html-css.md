@@ -92,24 +92,20 @@ Sectioning Tags:
 
 ### section
 
-<blockquote>The HTML Section Element ( &lt;section&gt; ) represents a generic section of a document, i.e., a thematic grouping of content, typically with a heading. Each &lt;section&gt; should be identified, typically by including a heading (h1-h6 element) as a child of the &lt;section&gt; element. -MDN</blockquote>
+The HTML Section Element ( &lt;section&gt; ) represents a generic section of a document, i.e., a thematic grouping of content, typically with a heading. Each &lt;section&gt; should be identified, typically by including a heading (h1-h6 element) as a child of the &lt;section&gt; element. -MDN
 
 ### article
 
-<blockquote>
-The HTML &lt;article&gt; Element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable, e.g., in syndication. This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, an interactive widget or gadget, or any other independent item of content. Each article should be identified, typically by including a heading (h1-h6 element) as a child of the &lt;article&gt; element. -MDN</blockquote>
+The HTML &lt;article&gt; Element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable, e.g., in syndication. This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, an interactive widget or gadget, or any other independent item of content. Each article should be identified, typically by including a heading (h1-h6 element) as a child of the &lt;article&gt; element. -MDN
 
 ### aside
 
-<blockquote>
 The HTML aside element represents a section of the page with content connected tangentially to the rest, which could be considered separate from that content. These sections are often represented as sidebars or inserts. They often contain the definitions on the sidebars, such as definitions from the glossary; there may also be other types of information, such as related advertisements; the biography of the author; web applications; profile information or related links on the blog.
--MDN </blockquote>
+-MDN
 
 ### nav
 
-<blockquote>
 The HTML Navigation Element &lt;nav&gt; represents a section of a page that links to other pages or to parts within the page: a section with navigation links. -MDN
-</blockquote>
 
 Flow Content tags:
 
