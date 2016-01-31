@@ -172,3 +172,9 @@ body {
 * The different weight of selectors is usually the reason why your CSS-rules don't apply to some elements.
 
 * Problems are caused when you define a more specific selector -- like an HTML selector and an ID selector.
+
+## Resources
+
+[HTML Element Reference Guide](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
+
+[CSS Reference Guide](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
