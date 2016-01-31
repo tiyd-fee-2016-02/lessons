@@ -122,6 +122,8 @@ Cascading Style Sheets, most of the time abbreviated as CSS, is a stylesheet lan
 
 		* Just be careful how many stylesheets you link!
 
+---
+
 ## Resets
 * Before CSS: Default styles applied by browser/normalizing
 
