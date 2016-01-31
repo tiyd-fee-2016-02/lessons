@@ -1,5 +1,3 @@
-class: center, middle, inverse
-
 ## What is HTML?
 
 * **HyperText** is the method by which you move around on the web by clicking on special text called hyperlinks. Hyper just means it's not linear - i.e. you can go to any place on the Internet whenever you want by clicking on links - there is no set order to do things in.
@@ -7,6 +5,12 @@ class: center, middle, inverse
 * **Markup** is what HTML tags do to the text inside them. They mark it as a certain type of text (italicised text, for example).
 
 * HTML is a **Language**, as it has code-words and syntax like any other language.
+
+---
+Definition of HTML (via [MDN](https://developer.mozilla.org/en-US/)):
+<blockquote>
+HTML adds "markup" to standard English text. "Hyper Text" refers to links that connect Web pages to one another, making the World Wide Web what it is today. By creating and uploading Web pages to the Internet, you become an active participant in the World Wide Web. HTML supports visual images and other media as well. HTML is the language that describes the structure and the semantic content of a web document. Content within a web page is tagged with HTML elements such as &lt;img&gt;, &lt;title&gt;, &lt;p&gt;, &lt;div&gt;, &lt;picture&gt;, and so forth.  These elements form the building blocks of a website.
+</blockquote>
 
 ---
 
@@ -37,31 +41,23 @@ class: center, middle, inverse
 ```
 
 ---
-## Common HTML Tags
+For example, following is the basic structure, tagwise, for a basic html document
 
-* DOCTYPE
+```
+<!-- This is a comment -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is a title</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- The <head> tag usually contains any external CSS stylesheets or meta information about a particular page -->
+  </head>
+  <body>
+  <!-- The <body> tag is where human-viewable content is stored -->
+  </body>
+</html>
 
-* html
-
-* head
-
-* title
-
-* body
-
-* a
-
-* div
-
-* p
-
-* h1, h2, h3, h4, h5, h6
-
-* header
-
-* footer
-
-* nav
+```
 
 ---
 
@@ -75,8 +71,15 @@ class: center, middle, inverse
 	* Primary purpose: separating content from design.
 
 	* CSS should always be written after your basic HTML.
+	
+---
+Definition of CSS (via [MDN](https://developer.mozilla.org/en-US/)):
+<blockquote>
+Cascading Style Sheets, most of the time abbreviated as CSS, is a stylesheet language used to describe the presentation of a document written in HTML or XML (including various XML languages like SVG or XHTML). CSS describes how the structured element must be rendered on screen, on paper, in speech, or on other media.
+</blockquote>
 
 ---
+
 ## How to get your CSS on the page
 * Internal vs External
 
@@ -122,6 +125,18 @@ class: center, middle, inverse
   			font-family: "Trebuchet MS", Verdana, serif;
 			}
 			```
+
+---
+
+```
+/* This is a CSS comment */
+body {
+  background-color: red;
+  font-size: 20px;
+  font-weight: strong;
+}
+
+```
 
 ---
 
