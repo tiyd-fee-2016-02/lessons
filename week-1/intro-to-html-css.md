@@ -85,7 +85,7 @@ class: center, middle, inverse
 
 What does HTML provide for your site? (hint: skeleton)
 
---
+---
 
 ## Intro to CSS
 * What is CSS and how does it differ from HTML?
@@ -136,6 +136,7 @@ property: value;
 
 * The selector is the element that you want to style. The property is the actual property title, and the value is the style you apply to that property.
 
+
 ```css
 body {
 background: DodgerBlue;
@@ -144,6 +145,7 @@ font-family: "Trebuchet MS", Verdana, serif;
 ```
 
 ---
+
 ```
 /* This is a CSS comment */
 body {
@@ -153,6 +155,7 @@ body {
 }
 
 ```
+
 ---
 
 ## ID selectors
