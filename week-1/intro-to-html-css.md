@@ -92,28 +92,28 @@ Sectioning Tags:
 
 ### &lt;section&gt;
 
-<blockquote>The HTML Section Element ( &lt;section&gt; ) represents a generic section of a document, i.e., a thematic grouping of content, typically with a heading. Each &lt;section&gt; should be identified, typically by including a heading (h1-h6 element) as a child of the &lt;section&gt; element. - MDN</blockquote>
+<blockquote>The HTML Section Element ( &lt;section&gt; ) represents a generic section of a document, i.e., a thematic grouping of content, typically with a heading. Each &lt;section&gt; should be identified, typically by including a heading (h1-h6 element) as a child of the &lt;section&gt; element.</blockquote>-MDN
 
 ### &lt;article&gt;
 
 <blockquote>
 The HTML <article> Element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable, e.g., in syndication. This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, an interactive widget or gadget, or any other independent item of content. Each <article> should be identified, typically by including a heading (h1-h6 element) as a child of the <article> element. - MDN</blockquote>
 
-### ```aside```
+### &lt;aside&gt;
 
 <blockquote>
 he HTML <aside> element represents a section of the page with content connected tangentially to the rest, which could be considered separate from that content. These sections are often represented as sidebars or inserts. They often contain the definitions on the sidebars, such as definitions from the glossary; there may also be other types of information, such as related advertisements; the biography of the author; web applications; profile information or related links on the blog.
-</blockquote> - MDN
+- MDN </blockquote>
 
-### ```nav```
+### &lt;nav&gt;
 
 <blockquote>
-The HTML Navigation Element (<nav>) represents a section of a page that links to other pages or to parts within the page: a section with navigation links.
-</blockquote> - MDN
+The HTML Navigation Element (<nav>) represents a section of a page that links to other pages or to parts within the page: a section with navigation links. - MDN
+</blockquote>
 
 Flow Content tags:
 
-### ```header```
+### &lt;header&gt;
 
 <blockquote>
 The HTML <header> Element represents a group of introductory or navigational aids. It may contain some heading elements but also other elements like a logo, wrapped section's header, a search form, and so on.
