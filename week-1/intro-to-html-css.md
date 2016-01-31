@@ -94,7 +94,7 @@ Sectioning Tags:
 
 <blockquote>The HTML Section Element ( &lt;section&gt; ) represents a generic section of a document, i.e., a thematic grouping of content, typically with a heading. Each &lt;section&gt; should be identified, typically by including a heading (h1-h6 element) as a child of the &lt;section&gt; element.</blockquote> - MDN
 
-### ```article```
+### &lt;article&gt;
 
 <blockquote>
 The HTML <article> Element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable, e.g., in syndication. This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, an interactive widget or gadget, or any other independent item of content. Each <article> should be identified, typically by including a heading (h1-h6 element) as a child of the <article> element.
