@@ -1,3 +1,5 @@
+class: center, middle, inverse
+
 ## What is HTML?
 
 * **HyperText** is the method by which you move around on the web by clicking on special text called hyperlinks. Hyper just means it's not linear - i.e. you can go to any place on the Internet whenever you want by clicking on links - there is no set order to do things in.
@@ -30,7 +32,9 @@
 
 * Close your HTML elements.
 
-* < element = "attribute" > < / close tag >
+```html
+<element="attribute"> </close tag>
+```
 
 ---
 ## Common HTML Tags
@@ -102,19 +106,22 @@
 
 	* Basic CSS consists of three parts:
 
-
+			```css
 			selector {
 				property: value;
 			}
+			```
 
 
 * The selector is the element that you want to style. The property is the actual property title, and the value is the style you apply to that property.
 
 
+			```css
 			body {
   			background: DodgerBlue;
   			font-family: "Trebuchet MS", Verdana, serif;
 			}
+			```
 
 ---
 
@@ -124,7 +131,7 @@
 
 * Each element can have only one ID and each page can have only one element with that ID.
 
-* ID names are up to you, but good practice is to give them meaningful names that explain what they do and their purpose, NOT how they look. Ex: "#alert" not "#red".
+* ID names are up to you, but good practice is to give them meaningful names that explain what they do and their purpose, NOT how they look. Ex: "``#alert``" not "``#red``".
 
 * How to remember #? Dogs at the POUND need an ID.
 
@@ -145,7 +152,7 @@
 
 * If one selector is more specific than the others, the more specific rule will take precedence.
 
-* h1 is more specific than *
+* ``h1`` is more specific than ``*``
 
 * The different weight of selectors is usually the reason why your CSS-rules don't apply to some elements.
 
