@@ -99,10 +99,6 @@ Cascading Style Sheets, most of the time abbreviated as CSS, is a stylesheet lan
 		* Just be careful how many stylesheets you link!
 
 ---
-## Resets
-* Before CSS: Default styles applied by browser/normalizing
-
----
 ## CSS Selectors
 
 * What is a selector and how does it look on the page?
@@ -147,7 +143,7 @@ body {
 
 * ID names are up to you, but good practice is to give them meaningful names that explain what they do and their purpose, NOT how they look. Ex: "``#alert``" not "``#red``".
 
-* How to remember #? Dogs at the POUND need an ID.
+* How to remember #? Dogs at the **POUND** need an **ID**.
 
 * IDs should be avoided in favor of...
 
@@ -160,6 +156,8 @@ body {
 * IDs are unique and used to identify one element on the page, whereas a class can target more than one element and elements can have multiple classes.
 
 * Classes provide more flexibility - you can use a class multiple times in a document but an ID only once.
+
+* How to remember .? **CLASSES** at school are divided into **PERIODS**.
 
 ---
 
