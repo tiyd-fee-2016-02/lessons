@@ -92,7 +92,7 @@ Sectioning Tags:
 
 ### &lt;section&gt;
 
-<blockquote>The HTML Section Element ( &lt;section&gt; ) represents a generic section of a document, i.e., a thematic grouping of content, typically with a heading. Each &lt;section&gt; should be identified, typically by including a heading (h1-h6 element) as a child of the &lt;section&gt; element.</blockquote>-MDN
+<blockquote>The HTML Section Element ( &lt;section&gt; ) represents a generic section of a document, i.e., a thematic grouping of content, typically with a heading. Each &lt;section&gt; should be identified, typically by including a heading (h1-h6 element) as a child of the &lt;section&gt; element. -MDN</blockquote>
 
 ### &lt;article&gt;
 
@@ -119,11 +119,11 @@ Flow Content tags:
 The HTML <header> Element represents a group of introductory or navigational aids. It may contain some heading elements but also other elements like a logo, wrapped section's header, a search form, and so on.
 </blockquote> -MDN
 
-### ```footer```
+### &lt;footer&gt;
 
 <blockquote>
-The HTML &lt;footer&gt; Element represents a footer for its nearest sectioning content or sectioning root element (i.e, its nearest parent &lt;article&gt;, &lt;aside&gt;, &lt;nav&gt;, &lt;section&gt;, &lt;blockquote&gt;, &lt;body&gt;, &lt;details&gt;, &lt;fieldset&gt;, &lt;figure&gt;, &lt;td&gt;). A footer typically contains information about the author of the section, copyright data or links to related documents.
-</blockquote> - MDN
+The HTML &lt;footer&gt; Element represents a footer for its nearest sectioning content or sectioning root element (i.e, its nearest parent &lt;article&gt;, &lt;aside&gt;, &lt;nav&gt;, &lt;section&gt;, &lt;blockquote&gt;, &lt;body&gt;, &lt;details&gt;, &lt;fieldset&gt;, &lt;figure&gt;, &lt;td&gt;). A footer typically contains information about the author of the section, copyright data or links to related documents. - MDN
+</blockquote>
 ---
 
 ## Intro to CSS
