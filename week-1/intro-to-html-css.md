@@ -97,18 +97,18 @@ Sectioning Tags:
 ### &lt;article&gt;
 
 <blockquote>
-The HTML <article> Element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable, e.g., in syndication. This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, an interactive widget or gadget, or any other independent item of content. Each article should be identified, typically by including a heading (h1-h6 element) as a child of the <article> element. - MDN</blockquote>
+The HTML <article> Element represents a self-contained composition in a document, page, application, or site, which is intended to be independently distributable or reusable, e.g., in syndication. This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, an interactive widget or gadget, or any other independent item of content. Each article should be identified, typically by including a heading (h1-h6 element) as a child of the <article> element. -MDN</blockquote>
 
 ### &lt;aside&gt;
 
 <blockquote>
 The HTML aside element represents a section of the page with content connected tangentially to the rest, which could be considered separate from that content. These sections are often represented as sidebars or inserts. They often contain the definitions on the sidebars, such as definitions from the glossary; there may also be other types of information, such as related advertisements; the biography of the author; web applications; profile information or related links on the blog.
-- MDN </blockquote>
+-MDN </blockquote>
 
 ### &lt;nav&gt;
 
 <blockquote>
-The HTML Navigation Element (<nav>) represents a section of a page that links to other pages or to parts within the page: a section with navigation links. - MDN
+The HTML Navigation Element (<nav>) represents a section of a page that links to other pages or to parts within the page: a section with navigation links. -MDN
 </blockquote>
 
 Flow Content tags:
@@ -116,8 +116,8 @@ Flow Content tags:
 ### &lt;header&gt;
 
 <blockquote>
-The HTML header Element represents a group of introductory or navigational aids. It may contain some heading elements but also other elements like a logo, wrapped section's header, a search form, and so on.
-</blockquote> -MDN
+The HTML header Element represents a group of introductory or navigational aids. It may contain some heading elements but also other elements like a logo, wrapped section's header, a search form, and so on. -MDN
+</blockquote>
 
 ### &lt;footer&gt;
 
