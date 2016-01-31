@@ -14,15 +14,11 @@ HTML adds "markup" to standard English text. "Hyper Text" refers to links that c
 </blockquote>
 
 ---
-class: center
-
 HTML provides a structure for your site - a skeleton of content.
 
 ![spooky](http://i.imgur.com/H6B0LWo.png)
 
 ---
-class: middle
-
 ## What does HTML look like?
 
 ```HTML
@@ -47,6 +43,26 @@ And sometimes there's self-closing tags...
 Let's check out an [example](http://kellymurray.github.io/tiy-html-css-crash-course/).
 
 ---
+Following is the basic structure, tagwise, for a basic html document
+
+```html
+<!-- This is a comment -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>This is a title</title>
+    <link rel="stylesheet" type="text/css" href="styles/styles.css">
+    <!-- The <head> tag usually contains any external CSS stylesheets or meta information about a particular page -->
+  </head>
+  <body>
+  <!-- The <body> tag is where human-viewable content is stored -->
+  </body>
+</html>
+
+```
+
+---
+
 ## What is Semantic HTML?
 
 * Semantic HTML tags provide information about the contents of those tags that goes beyond just how they look on a page.
@@ -58,13 +74,6 @@ Let's check out an [example](http://kellymurray.github.io/tiy-html-css-crash-cou
 	* Works better for the visually impaired and SEO/Google Rankings.
 
 	* Makes for better code in a team setting.
-
----
-class: center, middle, inverse
-
-## Pop Quiz!
-
-What does HTML provide for your site? (hint: skeleton)
 
 ---
 
@@ -170,14 +179,6 @@ body {
 * The different weight of selectors is usually the reason why your CSS-rules don't apply to some elements.
 
 * Problems are caused when you define a more specific selector -- like an HTML selector and an ID selector.
-
----
-
-class: middle, center, inverse
-
-## Pop Quiz!
-
-Should you write HTML or CSS first?
 
 ---
 
