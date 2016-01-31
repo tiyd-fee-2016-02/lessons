@@ -7,13 +7,13 @@
 * HTML is a **Language**, as it has code-words and syntax like any other language.
 
 ---
-Definition of HTML (via [MDN](https://developer.mozilla.org/en-US/)):
+Boring but Useful Definition of HTML (via [MDN](https://developer.mozilla.org/en-US/)):
+
 <blockquote>
 HTML adds "markup" to standard English text. "Hyper Text" refers to links that connect Web pages to one another, making the World Wide Web what it is today. By creating and uploading Web pages to the Internet, you become an active participant in the World Wide Web. HTML supports visual images and other media as well. HTML is the language that describes the structure and the semantic content of a web document. Content within a web page is tagged with HTML elements such as &lt;img&gt;, &lt;title&gt;, &lt;p&gt;, &lt;div&gt;, &lt;picture&gt;, and so forth.  These elements form the building blocks of a website.
 </blockquote>
 
 ---
-
 class: center
 
 HTML provides a structure for your site - a skeleton of content.
@@ -21,7 +21,6 @@ HTML provides a structure for your site - a skeleton of content.
 ![spooky](http://i.imgur.com/H6B0LWo.png)
 
 ---
-
 class: middle
 
 ## What does HTML look like?
@@ -48,7 +47,6 @@ And sometimes there's self-closing tags...
 Let's check out an [example](http://kellymurray.github.io/tiy-html-css-crash-course/).
 
 ---
-
 ## What is Semantic HTML?
 
 * Semantic HTML tags provide information about the contents of those tags that goes beyond just how they look on a page.
@@ -62,7 +60,6 @@ Let's check out an [example](http://kellymurray.github.io/tiy-html-css-crash-cou
 	* Makes for better code in a team setting.
 
 ---
-
 Following is the basic structure, tagwise, for a basic html document
 
 ```html
@@ -82,14 +79,13 @@ Following is the basic structure, tagwise, for a basic html document
 ```
 
 ---
-
 class: center, middle, inverse
 
 ## Pop Quiz!
 
 What does HTML provide for your site? (hint: skeleton)
 
----
+--
 
 ## Intro to CSS
 * What is CSS and how does it differ from HTML?
@@ -101,16 +97,15 @@ What does HTML provide for your site? (hint: skeleton)
 	* Primary purpose: separating content from design.
 
 	* CSS should always be written after your basic HTML.
-	
+
 ---
 
-Definition of CSS (via [MDN](https://developer.mozilla.org/en-US/)):
+Boring but Useful Definition of CSS (via [MDN](https://developer.mozilla.org/en-US/)):
 <blockquote>
 Cascading Style Sheets, most of the time abbreviated as CSS, is a stylesheet language used to describe the presentation of a document written in HTML or XML (including various XML languages like SVG or XHTML). CSS describes how the structured element must be rendered on screen, on paper, in speech, or on other media.
 </blockquote>
 
 ---
-
 ## How to get your CSS on the page
 * Internal vs External
 
@@ -123,19 +118,10 @@ Cascading Style Sheets, most of the time abbreviated as CSS, is a stylesheet lan
 		* Just be careful how many stylesheets you link!
 
 ---
-
 ## Resets
 * Before CSS: Default styles applied by browser/normalizing
 
 ---
-
-## How do I set up my files?
-* Local structure
-
-* Paths
-
----
-
 ## CSS Selectors
 
 * What is a selector and how does it look on the page?
@@ -150,8 +136,6 @@ property: value;
 
 * The selector is the element that you want to style. The property is the actual property title, and the value is the style you apply to that property.
 
----
-
 ```css
 body {
 background: DodgerBlue;
@@ -160,7 +144,6 @@ font-family: "Trebuchet MS", Verdana, serif;
 ```
 
 ---
-
 ```
 /* This is a CSS comment */
 body {
@@ -170,7 +153,6 @@ body {
 }
 
 ```
-
 ---
 
 ## ID selectors
