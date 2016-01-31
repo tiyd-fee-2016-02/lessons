@@ -83,6 +83,14 @@ For example, following is the basic structure, tagwise, for a basic html documen
 
 ---
 
+class: center, middle, inverse
+
+## Pop Quiz!
+
+What does HTML provide for your site? (hint: skeleton)
+
+---
+
 ## Intro to CSS
 * What is CSS and how does it differ from HTML?
 
@@ -95,6 +103,7 @@ For example, following is the basic structure, tagwise, for a basic html documen
 	* CSS should always be written after your basic HTML.
 	
 ---
+
 Definition of CSS (via [MDN](https://developer.mozilla.org/en-US/)):
 <blockquote>
 Cascading Style Sheets, most of the time abbreviated as CSS, is a stylesheet language used to describe the presentation of a document written in HTML or XML (including various XML languages like SVG or XHTML). CSS describes how the structured element must be rendered on screen, on paper, in speech, or on other media.
@@ -194,6 +203,16 @@ body {
 * The different weight of selectors is usually the reason why your CSS-rules don't apply to some elements.
 
 * Problems are caused when you define a more specific selector -- like an HTML selector and an ID selector.
+
+---
+
+class: middle, center, inverse
+
+## Pop Quiz!
+
+Should you write HTML or CSS first?
+
+---
 
 ## Resources
 
