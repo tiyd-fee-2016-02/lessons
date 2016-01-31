@@ -14,11 +14,46 @@ HTML adds "markup" to standard English text. "Hyper Text" refers to links that c
 
 ---
 
+class: center
+
+HTML provides a structure for your site - a skeleton of content.
+
+![spooky](http://i.imgur.com/H6B0LWo.png)
+
+---
+
+class: middle
+
+## What does HTML look like?
+
+```HTML
+<tag-name="attribute value">
+  <!--tag contents-->
+</tag-name>
+```
+```HTML
+  <a href="http://www.google.com">Google</a>
+```
+
+```HTML
+  <p>Cats are cool!</p>
+```
+
+And sometimes there's self-closing tags...
+
+```HTML
+<img src="http://placebear.com/g/400/200" alt="bears!!">
+```
+
+Let's check out an [example](http://kellymurray.github.io/tiy-html-css-crash-course/).
+
+---
+
 ## What is Semantic HTML?
 
 * Semantic HTML tags provide information about the contents of those tags that goes beyond just how they look on a page.
 
-* For example: you can now identify the navigation bar with the < nav > tag.
+* For example: you can now identify the navigation bar with the ``<nav>`` tag.
 
 * Why use semantic HTML at all?
 
@@ -28,19 +63,6 @@ HTML adds "markup" to standard English text. "Hyper Text" refers to links that c
 
 ---
 
-## HTML Tags
-
-* HTML's purpose is to provide a structure for your site - a skeleton.
-
-* Mixing uppercase and lowercase names is bad.
-
-* Close your HTML elements.
-
-```html
-<element="attribute"> </close tag>
-```
-
----
 For example, following is the basic structure, tagwise, for a basic html document
 
 ```
