@@ -1,4 +1,4 @@
-_With credit to [http://github.com/calweb](Calvin Webster) for much of the content._
+_With credit to [Calvin Webster](http://github.com/calweb) for much of the content._
 
 ## Terminal
 
