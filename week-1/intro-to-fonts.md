@@ -8,9 +8,7 @@
 
 * "The web is 95% typography." - Oliver Reichenstein.
 
----
-
-Only a handful of fonts look similar across all browsers and systems.
+Unfortunately, only a handful of fonts look similar across all browsers and systems.
 
 Web-safe fonts include:
   * Arial / Helvetica
@@ -19,8 +17,6 @@ Web-safe fonts include:
 
 These are safe choices for legibility. You aren't bound to them, though.
 
----
-
 # Why not try -- Web Fonts!
 
 [Google Fonts](https://www.google.com/fonts) is the most popular web font site and is free!
@@ -28,8 +24,6 @@ These are safe choices for legibility. You aren't bound to them, though.
 Free!
 
 I said free!
-
----
 
 # Fonts and CSS
 
@@ -60,7 +54,6 @@ I said free!
 
 * alignment
   * default is flush-left/ragged right
----
 
 # Icon Fonts are Cool
 
@@ -69,8 +62,6 @@ I said free!
   * They're scalable and load quickly
 
   * They're supported in all browsers
-
----
 
 # Resources
 [Google Web Fonts](http://www.google.com/fonts)
