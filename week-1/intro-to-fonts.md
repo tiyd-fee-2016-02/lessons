@@ -65,13 +65,8 @@ I said free!
 
 # Resources
 [Google Web Fonts](http://www.google.com/fonts)
-
 [CSS Web Safe Font Combinations](http://www.w3schools.com/cssref/css_websafe_fonts.asp)
-
 [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - A showcase of typefaces from the Google web fonts directory.
-
 [Why and How to Use Icon Fonts](http://www.vanseodesign.com/web-design/icon-fonts/)
-
 [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-
 [Avoiding Faux Weights and Styles with Google Web Fonts](http://www.smashingmagazine.com/2012/07/11/avoiding-faux-weights-styles-google-web-fonts/)
