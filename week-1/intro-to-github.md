@@ -84,9 +84,7 @@ nothing to commit, working directory clean
 #### Once you have created a repository on your computer and are ready to `push` it to github
 
 - First, you must create a repo on github
-![New github repo](assets/newGHRepo.png)
 - Once the new repository is created, github actually gives you really great instructions on how to proceed and `git push` your repo from your computer to github.com
-![New Repo Instructions](assets/ghDirections.png)
 
 ```sh
 $ git remote add origin git@github.com:username/myNewProject.git
