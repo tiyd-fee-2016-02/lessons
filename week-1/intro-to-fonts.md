@@ -68,8 +68,6 @@ And very easy to use. Let's try it!
 # Resources
 [Google Web Fonts](http://www.google.com/fonts)
 
-[CSS Web Safe Font Combinations](http://www.w3schools.com/cssref/css_websafe_fonts.asp)
-
 [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - A showcase of typefaces from the Google web fonts directory.
 
 [Why and How to Use Icon Fonts](http://www.vanseodesign.com/web-design/icon-fonts/)

@@ -139,8 +139,6 @@ Many CSS rules have a shorthand notation.
 
 Floating an item (left or right) takes it out of the normal flow.
 
-It's parents won't necessarily contain it.
-
 An item with `display: block; clear: both` will "clear" the float.
 
 An alternative way to force a container to properly contain its floating children
