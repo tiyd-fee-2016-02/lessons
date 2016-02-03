@@ -25,6 +25,8 @@ Free!
 
 I said free!
 
+And very easy to use. Let's try it!
+
 # Fonts and CSS
 
 * font-family and the font stack
