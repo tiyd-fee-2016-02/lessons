@@ -31,6 +31,19 @@ You can add multiple strings together to make a new string, as well as alter a s
 Boolean represents a logical entity and can have two values: true and false.
 </blockquote> - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 
+## Math
+
+- Add `1 + 2`
+- Subtract `1 - 2`
+- Negate `-3`
+- Divide `4 / 2`
+- Multiply `4 * 2`
+- Mod `4 % 2` yields the remainder (0, in this case)
+- Get random number
+  - Between 0 (inclusive) and 1 (exclusive) `Math.random()`
+  - Beween 1 and 10 (inclusive) `Math.floor(Math.random() * 10) + 1`
+- [Math reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
+
 ## Variables
 
 - Are named values
