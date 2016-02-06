@@ -1,4 +1,4 @@
-## Datatypes
+## Intro to JavaScript
 
 ### Number
 
@@ -30,6 +30,25 @@ You can add multiple strings together to make a new string, as well as alter a s
 <blockquote>
 Boolean represents a logical entity and can have two values: true and false.
 </blockquote> - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+
+## Variables
+
+- Are named values
+- You can change the value of a variable
+- Rule of substitution (where you see the variable name, you can substitute its value)
+
+```
+    // Declare a variable x
+    var x;
+
+
+    // Assign a value to x
+    x = 4;
+
+
+    // Declare and assign variable y
+    var y = 33;
+```
 
 ### Array
 
@@ -169,7 +188,43 @@ prints:
 ```
 ---
 
-### Function
+## Functions
+
+- A function is a named block of statements
+- When you call the function, the statements run
+- Can be passed inputs, can produce outputs
+
+```
+    // Define / declare function hello
+    function hello(firstName, lastName) {
+      var message = 'Hello, ' + firstName + ' ' + lastName;
+      console.log(message);
+      alert(message);
+    }
+```
+
+- The code above
+  - Declared a function named hello
+  - Takes two arguments called `firstName` and `lastName`
+  - Creates a local variable to store the hello message
+  - Logs the message to the console
+  - Alerts the message
+  - But this code doesn't actually do anything until the function is called!
+
+---
+
+### Calling / invoking a function
+
+```
+    hello('Chris', 'Davies');
+    hello('Kelly', 'Murray');
+```
+
+- Invoke a function by typing its name followed by parenthesis
+- Arguments to a function go in the parenthesis
+- If multiple arguments, separate them by commas
+- Each time the function is called, the statements in the function block are executed
+
 
 ## Control Flow
 
