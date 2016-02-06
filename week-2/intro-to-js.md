@@ -451,4 +451,4 @@ d
 ```
 ## Resources
 
-(MDN - Data Structures)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures]
+[MDN - Data Structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
