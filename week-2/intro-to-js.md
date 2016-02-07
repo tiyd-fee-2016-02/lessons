@@ -1,5 +1,23 @@
 ## Intro to JavaScript
 
+### Whitespace
+
+In JavaScript, whitespace usually doesn't hold meaning. That means you _usually_ don't have to worry about whitespace _except for formatting for clarity_. However, whitespace is significant in situations such as:
+
+``javascript
+var instructor = "Kelly";
+``
+
+The whitespace between `var` and `instructor` must be present. However, all the other whitespaces were included for clarity.
+
+### Comments
+
+Like CSS and HTML, you can and _should_ use comments to clarify your code. The best way to comment in JavaScript is to use ``//``.
+
+``javascript
+// comment that code!
+``
+
 ### Number
 
 In javascript, there is only one type of number, which is double precision floating-point or binary floating point.
@@ -7,6 +25,8 @@ In javascript, there is only one type of number, which is double precision float
 <blockquote>
 According to the ECMAScript standard, there is only one number type: the double-precision 64-bit binary format IEEE 754 value (number between -(253 -1) and 253 -1). There is no specific type for integers. In addition to being able to represent floating-point numbers, the number type has three symbolic values: +Infinity, -Infinity, and NaN (not-a-number).
 </blockquote> - [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+
+All you need to know for now is that a number is usually a number in JavaScript.
 
 ### String
 
@@ -41,7 +61,7 @@ Boolean represents a logical entity and can have two values: true and false.
 - Mod `4 % 2` yields the remainder (0, in this case)
 - Get random number
   - Between 0 (inclusive) and 1 (exclusive) `Math.random()`
-  - Beween 1 and 10 (inclusive) `Math.floor(Math.random() * 10) + 1`
+  - Between 1 and 10 (inclusive) `Math.floor(Math.random() * 10) + 1`
 - [Math reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)
 
 ## Variables
@@ -229,7 +249,7 @@ prints:
 ### Calling / invoking a function
 
 ```
-    hello('Chris', 'Davies');
+    hello('Jasmine', 'Baik');
     hello('Kelly', 'Murray');
 ```
 
@@ -307,25 +327,7 @@ console.log(!y) // true
 // false
 // true
 ```
-### comments
 
-By the way, `//` is the comment operator.
-Anything that follows `//` on a line is
-ignored by the computer.
-
-You can even have whole blocks of comments
-by putting text between `/*` and `*/`:
-
-``` js
-// this is a comment
-console.log('beep boop'); // wow
-/*
-and this is a comment that
-spans multiple
-lines
-*/
-```
----
 ### if
 
 You can make a block of code execute when
