@@ -4,9 +4,9 @@
 
 In JavaScript, whitespace usually doesn't hold meaning. That means you _usually_ don't have to worry about whitespace _except for formatting for clarity_. However, whitespace is significant in situations such as:
 
-``javascript
+```javascript
 var instructor = "Kelly";
-``
+```
 
 The whitespace between `var` and `instructor` must be present. However, all the other whitespaces were included for clarity.
 
@@ -14,9 +14,9 @@ The whitespace between `var` and `instructor` must be present. However, all the 
 
 Like CSS and HTML, you can and _should_ use comments to clarify your code. The best way to comment in JavaScript is to use ``//``.
 
-``javascript
+```javascript
 // comment that code!
-``
+```
 
 ### Number
 
