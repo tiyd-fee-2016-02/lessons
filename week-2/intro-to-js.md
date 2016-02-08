@@ -68,7 +68,6 @@ Boolean represents a logical entity and can have two values: true and false.
 
 - Are named values
 - You can change the value of a variable
-- Rule of substitution (where you see the variable name, you can substitute its value)
 
 ```
     // Declare a variable x
