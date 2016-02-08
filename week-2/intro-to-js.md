@@ -4,7 +4,7 @@
 
 In JavaScript, whitespace usually doesn't hold meaning. That means you _usually_ don't have to worry about whitespace _except for formatting for clarity_. However, whitespace is significant in situations such as:
 
-```javascript
+```JavaScript
 var instructor = "Kelly";
 ```
 
@@ -14,13 +14,13 @@ The whitespace between `var` and `instructor` must be present. However, all the 
 
 Like CSS and HTML, you can and _should_ use comments to clarify your code. The best way to comment in JavaScript is to use ``//``.
 
-```javascript
+```JavaScript
 // comment that code!
 ```
 
 ### Number
 
-In javascript, there is only one type of number, which is double precision floating-point or binary floating point.
+In JavaScript, there is only one type of number, which is double precision floating-point or binary floating point.
 
 <blockquote>
 According to the ECMAScript standard, there is only one number type: the double-precision 64-bit binary format IEEE 754 value (number between -(253 -1) and 253 -1). There is no specific type for integers. In addition to being able to represent floating-point numbers, the number type has three symbolic values: +Infinity, -Infinity, and NaN (not-a-number).
@@ -30,7 +30,7 @@ All you need to know for now is that a number is usually a number in JavaScript.
 
 ### String
 
-Strings in javascript are used for textual information and cannot be altered (immutable).
+Strings in JavaScript are used for textual information and cannot be altered (immutable).
 
 You can add multiple strings together to make a new string, as well as alter a string using  `substr()` method, but these operations only create a new string, not altering the original.
 
