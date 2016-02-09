@@ -57,7 +57,7 @@ will print:
 8
 ```
 
-# objects: create a new record
+## objects: create a new record
 
 Reference a key with a `.` followed by a key then use an
 equal sign to create a new value under that key:
@@ -108,52 +108,8 @@ prints:
 ```
 { x: 1500, y: 1200 }
 ```
----
-## objects: square brackets
 
-Using the `.` operator to access keys is handy, but what
-about special characters in keys?
-
-We can use square brackets with a string to reference
-keys with special characters:
-
-```
-var obj = { 'a b c': 123, 'x#y*z': 456 };
-console.log(obj['a b c']);
-```
-
-prints:
-
-```
-123
-```
----
-## objects: square brackets
-
-We can also use square brackets to reference dynamic keys.
-For example, if we want to load a key from a variable:
-
-``` js
-var key = 'def';
-var obj = {
-    abc: 555,
-    def: 333,
-    xyz: 222
-};
-console.log(obj[key]);
-```
-
-prints:
-
-```
-333
-```
-
-Everything we can do with dot (updates, assignment
-operators, etc) works with square bracket notation.
-
----
-# objects: delete
+## objects: delete
 
 To delete items from an object, use the `delete` keyword:
 
