@@ -1,3 +1,5 @@
+_With special thanks to the Cyberwizard Institute for many of the examples!_ 
+
 # Objects
 
 Objects map keys to values.
