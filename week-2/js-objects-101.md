@@ -1,4 +1,4 @@
-_With special thanks to the Cyberwizard Institute and Girl Develop It! for many of the examples!_
+_With special thanks to the Cyberwizard Institute for many of the examples!_
 
 # Objects
 
