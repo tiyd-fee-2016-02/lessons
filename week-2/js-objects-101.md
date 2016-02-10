@@ -1,6 +1,19 @@
-_With special thanks to the Cyberwizard Institute for many of the examples!_ 
+_With special thanks to the Cyberwizard Institute and Girl Develop It! for many of the examples!_
 
 # Objects
+
+Objects are a data type that let developers store a collection of properties and methods.
+
+There are three kinds of object types in JavaScript:
+
+* Native Objects in JavaScript
+  * This includes: numbers, strings, arrays, Booleans, objects
+* Host Objects  
+  * These are objects provided by the host environment in which the JavaScript is running. For example, in the browser host environment, the _document_ and _console_ are both host objects.
+* Your Own Objects  
+  * These are objects you define in your programming. Some examples might be tasks in a to-do list or contacts in an address book.
+
+## How Do I Write Objects?
 
 Objects map keys to values.
 
@@ -18,9 +31,9 @@ To create the same structure in javascript we could do:
 
 ``` js
 var phonebook = {
-    'Benjamin Franklin': '123-4142',
-    'Alexander Graham Bell': '214-6821',
-    'Marie Curie': '615-2904'
+    "Benjamin Franklin": "123-4142",
+    "Alexander Graham Bell": "214-6821",
+    "Marie Curie": "615-2904"
 };
 ```
 
@@ -42,7 +55,7 @@ var obj = {
 This way of building objects is sometimes called
 "object literal" syntax.
 
-## objects: pick out a single record
+## Objects: pick out a single record
 
 Once an object exists, you can reference an individual value
 by its key using a `.` followed by the key name. Here we use
@@ -59,7 +72,7 @@ will print:
 8
 ```
 
-## objects: create a new record
+## Objects: create a new record
 
 Reference a key with a `.` followed by a key then use an
 equal sign to create a new value under that key:
@@ -76,7 +89,7 @@ prints:
 { a: 3, b: 4, c: 5 }
 ```
 ---
-## objects: update an existing record
+## Objects: update an existing record
 
 The same `obj.c = 5` syntax works even if a key already
 exists:
@@ -93,7 +106,7 @@ prints:
 { x: 500, y: 300 }
 ```
 ---
-## objects: assignment operators
+## Objects: assignment operators
 
 All of the assignment operators work for object keys just
 like for variables!
@@ -111,7 +124,7 @@ prints:
 { x: 1500, y: 1200 }
 ```
 
-## objects: delete
+## Objects: delete
 
 To delete items from an object, use the `delete` keyword:
 
