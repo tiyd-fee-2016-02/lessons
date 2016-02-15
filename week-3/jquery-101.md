@@ -249,14 +249,14 @@ What does this do?
       alert($(this).text());
     });```
 
-What does this do?
+//What does this do?
 
 ```javascript
     $('.container').on('click', 'button', function () {
       alert($(this).text()); // what is $(this) ?
     });```
 
-What does this do?
+//What does this do?
 
 ```javascript
     function myFunc() {
