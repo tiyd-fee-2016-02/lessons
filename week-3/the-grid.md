@@ -1,4 +1,4 @@
-# The Grid System and CSS Frameworks
+# The Grid System
 
 ## Getting On the Grid
 ![Getting on the Grid with Daft Punk](https://33.media.tumblr.com/35d4ef4447e0112f776b629bffd99188/tumblr_mk4gf8zvyC1s567uwo1_500.gif)
@@ -46,7 +46,7 @@ Thanks, [Switzerland](http://www.designishistory.com/home/swiss/)!
 * [Creating Your Own Grid](http://j4n.co/blog/Creating-your-own-css-grid-system)
 * [Unsemantic Responsive Grid](http://unsemantic.com/)
 
-## Frameworks and FlexBox
+## FlexBox
 
 * [Flexplorer](http://bennettfeely.com/flexplorer/)
 * [Solved by Flexbox](http://philipwalton.github.io/solved-by-flexbox/)
