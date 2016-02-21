@@ -189,7 +189,6 @@ get called and passed the object `{ name: 'Joe Shmo' }`
 - add the `dataType: 'jsonp'` property to the request
 - end your URL with `callback=?`
 - jQuery will generate a random callback under the hood so you don't have to
--
 
 ```javascript
 $.ajax({
