@@ -46,3 +46,4 @@ Spend some time with the following resources to fully understand the power of `l
 * [Local Storage and How to Use It On Websites](https://www.smashingmagazine.com/2010/10/local-storage-and-how-to-use-it/)
 * [HTML5 Features: Storage](http://www.html5rocks.com/en/features/storage)
 * [Building HTML5 Mobile Apps with Local Storage and Topcoat](https://www.binpress.com/tutorial/local-storage/106)
+* [Using Local Storage](http://learn.ionicframework.com/formulas/localstorage/)
