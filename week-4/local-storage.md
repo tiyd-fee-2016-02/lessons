@@ -18,6 +18,7 @@ Need to remove it?
 
 ```JavaScript
 localStorage.removeItem('pokemon');
+var pokemon = localStorage.getItem('pokemon');
 ```
 
 You can use the localStorage object with the DOM just as you would any object.
