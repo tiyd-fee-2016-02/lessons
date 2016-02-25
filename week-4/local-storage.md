@@ -48,4 +48,4 @@ Spend some time with the following resources to fully understand the power of `l
 * [Building HTML5 Mobile Apps with Local Storage and Topcoat](https://www.binpress.com/tutorial/local-storage/106)
 * [Using Local Storage](http://learn.ionicframework.com/formulas/localstorage/)
 * [MDN: Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
-* [How to Use LocalStorage for JavaScript](http://www.webdesignerdepot.com/2013/04/how-to-use-local-storage-for-javascript/)
+* [How to Use Local Storage for JavaScript](http://www.webdesignerdepot.com/2013/04/how-to-use-local-storage-for-javascript/)
