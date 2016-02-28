@@ -6,7 +6,7 @@ We're sassy cats, but can we write Sassy CSS? What _is_ Sassy CSS, and why shoul
 
 ## Sass
 
-Sass stands for "Sytnastically Awesome StyleSheets" and was created specifically to address some of CSS's shortcomings. It allows you to use variables, nested rules, and more to ramp your CSS up to the next level -- while providing DRY-er code over all.
+Sass stands for "Sytnastically Awesome StyleSheets" and was created specifically to address some of CSS's shortcomings. It allows you to use variables, nested rules, and more to take your CSS to the next level -- while providing DRY-er code overall.
 
 There's two Sass Syntaxes out there: `.scss` and `.sass`. The latter is older and not as powerful as `.scss`, so you'll be learning `.scss`.
 
