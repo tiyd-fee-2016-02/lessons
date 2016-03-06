@@ -18,7 +18,7 @@ The **Controller** responds to user input and updates the Model. When you log in
 
 ## MVC Helps with Separation of Concerns
 
-I like this description from CodeProject.com:
+I like this description from [CodeProject.com](http://www.codeproject.com/Articles/25057/Simple-Example-of-MVC-Model-View-Controller-Design):
 
 >MVC is often seen in web applications, where the view is the actual HTML page, and the controller is the code that gathers dynamic data and generates the content within the HTML. Finally, the model is represented by the actual content, usually stored in a database or XML files, and the business rules that transform that content based on user actions.
 
