@@ -4,7 +4,7 @@ User stories are short descriptions of a feature told from the viewpoint of the 
 
 The typical template is:
 
-*As a <type of user>, I want <goal> so that I can <motivation for goal>.*
+`As a <type of user>, I want <goal> so that I can <motivation for goal>.`
 
 There are three essential parts of this template:
 
