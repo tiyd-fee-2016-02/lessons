@@ -1,4 +1,4 @@
-# USER STORIES
+# User Stories
 
 User stories are short descriptions of a feature told from the viewpoint of the user. Each feature should have a user story associated with it.
 
