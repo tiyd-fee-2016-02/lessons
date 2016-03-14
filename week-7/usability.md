@@ -12,8 +12,6 @@ When effort outweighs value, users will bounce. Think about when a friend shares
 
 If you want someone to use something you've created, it's got to be usable. If you want them to use it a lot, they've got to enjoy the experience.
 
-As you've learned, in the development world,
-
 > "If you're a runner and you're getting ready to run a race, the last thing you want to do as the starter is counting down the seconds for you to start is to check and see if your shoelaces are tied or not." - Dan Gorgone
 
 ### Testing gives you outside perspectives
