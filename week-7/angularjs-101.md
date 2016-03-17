@@ -15,7 +15,9 @@ A marker on an HTML tag that tells Angular to run or reference JavaScript. It's 
 
 Modules are where we write pieces of the Angular application and where we define dependencies.
 
-`var app = angular.module('store', [])`
+To set a new module, you might write something like: `var app = angular.module('store', [])`
+
+The `[]` is where you can put other named modules as dependencies. Otherwise, if there are no other dependencies, leave the empty array.
 
 ### Expressions
 
@@ -24,6 +26,8 @@ Expressions allow you to insert dynamic values into your HTML.
 `{{"hello" + "world"}}`
 
 ### Scope
+
+
 
 To quote the ng-newsletter:
 
@@ -37,3 +41,8 @@ communication between the two. This $scope object will house both the data
 and the functions that we’ll want to run in the view, as we’ll see.
 
 They have a great write-up on [scope](http://www.ng-newsletter.com/posts/beginner2expert-scopes.html) that is worth the read.
+
+## Useful Resources
+* [Thinkful: AngularJS Tutorial](https://www.thinkful.com/learn/angularjs-tutorial-build-a-gmail-clone/Introduction)
+* [Promises in AngularJS, Explained in a Cartoon](http://andyshora.com/promises-angularjs-explained-as-cartoon.html)
+* [10 AngularJS CRUD Demos](http://angularjs4u.com/demos/10-angularjs-crud-app-demos/)
