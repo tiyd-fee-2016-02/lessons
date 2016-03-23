@@ -6,13 +6,19 @@ AngularJS has built-in event listeners that function much like the jQuery ones y
 
 These include (but aren't limited to):
 
-ng-click
+`ng-click
+
 ng-dblclick
+
 ng-focus
+
 ng-keydown
+
 ng-keypress
+
 ng-keyup
-ng-mouseover
+
+ng-mouseover`
 
 ## Filters
 
