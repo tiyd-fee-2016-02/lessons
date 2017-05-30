@@ -17,7 +17,7 @@
 ## Luckily, the Grid System helps you keep your CRAP in order.
 
 ## So what's The Grid?
-<img src="http://media.mediatemple.netdna-cdn.com/wp-content/uploads/images/swiss-graphic-design/poster3.jpg" height="500">
+<img src="https://www.smashingmagazine.com/wp-content/uploads/images/swiss-graphic-design/poster3.jpg" height="500">
 
 Thanks, [Switzerland](http://www.designishistory.com/home/swiss/)!
 
